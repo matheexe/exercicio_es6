@@ -27,5 +27,3 @@ src/
 └── scripts/
     └── alunos.js
 ```
-
-Este projeto faz parte dos meus estudos de JavaScript.
